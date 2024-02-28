@@ -1,0 +1,41 @@
+/* 
+  Localizable.strings
+  AIPartnerDemo
+
+  Created by FanPengpeng on 2023/11/13.
+  
+*/
+"create_room_title" = "Create Room";
+"create_room_select_scene" = "Select Scene";
+"create_room_ai_companion" = "AI Companion";
+"create_room_wait_title" = "Coming Soon";
+"create_room_nickname_title" = "Nickname";
+"create_room_random_title" = "Random";
+"create_room_join_button_title" = "Enter Room";
+"create_room_name_tf_placeholder" = "Please enter a nickname";
+"create_room_empty_nickname_hud" = "Please enter a nickname";
+
+"mate_scene_call_sb" = "Call ";
+"mate_scene_change_role_btn_title" = "Role";
+"mate_scene_change_voice_btn_nor_title" = "Default";
+"mate_scene_change_voice_btn_sel_title" = "AI Voice";
+"mate_scene_topic_before_call_hud" = "Topic can only be edit after a call is made";
+
+"select_role_title" = "Change Role";
+"select_role_confirm_btn_title" = "Choose This Role";
+
+"download_alert_title" = "Download tips";
+"download_alert_msg1" = "To enter AI companion for the first time, you need to download the ";
+"download_alert_msg2" = " packet";
+"download_alert_confirm" = "Download Now";
+"download_alert_cancel" = "Next Time";
+
+"download_rtvc_alert_msg1" = "To use AI Voice for the first time, you need to download the ";
+"download_rtvc_alert_msg2" = " packet";
+
+"download_vc_title" = "Downloading";
+"download_vc_cancel" = "Cancel";
+
+"call_failed" = "Call failed";
+"calling_please_wait" = "Calling, please wait";
+"shutting_down" = "Shutting down";

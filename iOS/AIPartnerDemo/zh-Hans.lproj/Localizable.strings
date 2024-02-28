@@ -1,0 +1,43 @@
+/* 
+  Localizable.strings
+  AIPartnerDemo
+
+  Created by FanPengpeng on 2023/11/13.
+  
+*/
+"create_room_title" = "创建房间";
+"create_room_select_scene" = "场景选择";
+"create_room_ai_companion" = "AI 伴侣";
+"create_room_wait_title" = "敬请期待";
+"create_room_nickname_title" = "昵称";
+"create_room_random_title" = "随机";
+"create_room_join_button_title" = "加入房间";
+"create_room_name_tf_placeholder" = "请输入昵称";
+"create_room_empty_nickname_hud" = "请输入昵称";
+
+"mate_scene_call_sb" = "呼叫";
+"mate_scene_change_role_btn_title" = "角色";
+"mate_scene_change_voice_btn_nor_title" = "默认";
+"mate_scene_change_voice_btn_sel_title" = "变声";
+"mate_scene_topic_before_call_hud" = "呼叫后才可以修改话题";
+
+"select_role_title" = "更换角色";
+"select_role_confirm_btn_title" = "选择这个角色";
+
+"download_alert_title" = "下载提示";
+"download_alert_msg1" = "首次进入AI伴侣场景需下载";
+"download_alert_msg2" = "数据包";
+"download_alert_confirm" = "立即下载";
+"download_alert_cancel" = "下次再说";
+"download_rtvc_alert_msg1" = "首次使用变音功能需要下载";
+"download_rtvc_alert_msg2" = "数据包,否则AI变音将不可用";
+
+"download_vc_title" = "下载中";
+"download_vc_cancel" = "取消";
+
+"call_failed" = "呼叫失败";
+"calling_please_wait" = "正在呼叫，请稍候";
+"shutting_down" = "正在关闭";
+
+
+

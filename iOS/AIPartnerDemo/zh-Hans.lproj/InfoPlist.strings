@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  AIPartnerDemo
+
+  Created by FanPengpeng on 2023/11/15.
+  
+*/
+
+CFBundleDisplayName = "声网 AI Chat";

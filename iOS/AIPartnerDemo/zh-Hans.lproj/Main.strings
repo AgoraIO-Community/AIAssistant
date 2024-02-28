@@ -1,0 +1,57 @@
+
+/* Class = "UIButton"; normalTitle = "敬请期待"; ObjectID = "Ox0-7p-Ntu"; */
+"Ox0-7p-Ntu.normalTitle" = "敬请期待";
+
+/* Class = "UIButton"; normalTitle = "AI伴侣"; ObjectID = "Q5z-4X-VKu"; */
+"Q5z-4X-VKu.normalTitle" = "AI伴侣";
+
+/* Class = "UILabel"; text = "Paul: I am a pupil student, can you teach me some simple English words?"; ObjectID = "T96-sx-UNi"; */
+"T96-sx-UNi.text" = "Paul: I am a pupil student, can you teach me some simple English words?";
+
+/* Class = "UILabel"; text = "场景选择"; ObjectID = "WEl-mf-Wpc"; */
+"WEl-mf-Wpc.text" = "场景选择";
+
+/* Class = "UIButton"; normalTitle = "呼叫"; ObjectID = "b7x-Xj-b7j"; */
+"b7x-Xj-b7j.normalTitle" = "呼叫";
+
+/* Class = "UIButton"; normalTitle = "name"; ObjectID = "bR2-DE-Ixo"; */
+"bR2-DE-Ixo.normalTitle" = "name";
+
+/* Class = "UIButton"; normalTitle = "选择这个角色"; ObjectID = "eSY-kH-XVA"; */
+"eSY-kH-XVA.normalTitle" = "选择这个角色";
+
+/* Class = "UINavigationItem"; title = "更换角色"; ObjectID = "f9I-rt-S5m"; */
+"f9I-rt-S5m.title" = "更换角色";
+
+/* Class = "UILabel"; text = "nickanme"; ObjectID = "grW-JC-cV1"; */
+"grW-JC-cV1.text" = "nickanme";
+
+/* Class = "UIButton"; normalTitle = "随机"; ObjectID = "k50-qh-gQD"; */
+"k50-qh-gQD.normalTitle" = "随机";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "kEt-B2-eew"; */
+"kEt-B2-eew.normalTitle" = "OK";
+
+/* Class = "UINavigationItem"; title = "创建房间"; ObjectID = "lQW-Rh-x1m"; */
+"lQW-Rh-x1m.title" = "创建房间";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ldx-I8-8pl"; */
+"ldx-I8-8pl.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "美食博主"; ObjectID = "luw-yF-05q"; */
+"luw-yF-05q.text" = "美食博主";
+
+/* Class = "UIButton"; normalTitle = "进入房间"; ObjectID = "oMM-54-ttu"; */
+"oMM-54-ttu.normalTitle" = "进入房间";
+
+/* Class = "UILabel"; text = "30MB/60MB"; ObjectID = "pol-46-kH0"; */
+"pol-46-kH0.text" = "30MB/60MB";
+
+/* Class = "UILabel"; text = "昵称"; ObjectID = "uqh-1p-HDf"; */
+"uqh-1p-HDf.text" = "昵称";
+
+/* Class = "UILabel"; text = "更换角色"; ObjectID = "y1G-M0-I9j"; */
+"y1G-M0-I9j.text" = "更换角色";
+
+/* Class = "UILabel"; text = "Topic"; ObjectID = "yWq-e8-c8o"; */
+"yWq-e8-c8o.text" = "Topic";
