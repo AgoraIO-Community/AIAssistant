@@ -17,7 +17,6 @@
 		A84398412AF4E24F000FE04D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A843983F2AF4E24F000FE04D /* Main.storyboard */; };
 		A84398432AF4E251000FE04D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A84398422AF4E251000FE04D /* Assets.xcassets */; };
 		A84398462AF4E251000FE04D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A84398442AF4E251000FE04D /* LaunchScreen.storyboard */; };
-		A84398512AF4E9F9000FE04D /* KeyCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A84398502AF4E9F9000FE04D /* KeyCenter.swift */; };
 		A85346B92AF89B5600D41920 /* MateSceneViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85346B82AF89B5600D41920 /* MateSceneViewController.swift */; };
 		A85346BD2AF8CC8B00D41920 /* CustomButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85346BC2AF8CC8B00D41920 /* CustomButton.swift */; };
 		A85346BF2AF8F3E400D41920 /* EditTopicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85346BE2AF8F3E400D41920 /* EditTopicViewController.swift */; };
@@ -28,6 +27,7 @@
 		A85346CC2AFB2A9E00D41920 /* Log.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85346CA2AFB2A9E00D41920 /* Log.swift */; };
 		A85346CD2AFB2A9E00D41920 /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = A85346CB2AFB2A9E00D41920 /* Logger.swift */; };
 		A8C641C12B8EDE49007BD182 /* GenTools.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C641C02B8EDE49007BD182 /* GenTools.swift */; };
+		A8C641C52B8EED5B007BD182 /* KeyCenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8C641C42B8EED5A007BD182 /* KeyCenter.swift */; };
 		A8D9F7A32B01D03E0047B84F /* libc++.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = A8D9F7A22B01D03E0047B84F /* libc++.tbd */; };
 		A8D9F7A82B0235FF0047B84F /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D9F7A72B0235FF0047B84F /* Extensions.swift */; };
 		A8D9F7B42B0243120047B84F /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A8D9F7B62B0243120047B84F /* Localizable.strings */; };
@@ -50,7 +50,6 @@
 		A84398422AF4E251000FE04D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A84398452AF4E251000FE04D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A84398472AF4E251000FE04D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A84398502AF4E9F9000FE04D /* KeyCenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyCenter.swift; sourceTree = "<group>"; };
 		A85346B82AF89B5600D41920 /* MateSceneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MateSceneViewController.swift; sourceTree = "<group>"; };
 		A85346BC2AF8CC8B00D41920 /* CustomButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButton.swift; sourceTree = "<group>"; };
 		A85346BE2AF8F3E400D41920 /* EditTopicViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditTopicViewController.swift; sourceTree = "<group>"; };
@@ -61,6 +60,7 @@
 		A85346CA2AFB2A9E00D41920 /* Log.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Log.swift; sourceTree = "<group>"; };
 		A85346CB2AFB2A9E00D41920 /* Logger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Logger.swift; sourceTree = "<group>"; };
 		A8C641C02B8EDE49007BD182 /* GenTools.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenTools.swift; sourceTree = "<group>"; };
+		A8C641C42B8EED5A007BD182 /* KeyCenter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeyCenter.swift; sourceTree = "<group>"; };
 		A8D9F7A22B01D03E0047B84F /* libc++.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = "libc++.tbd"; path = "usr/lib/libc++.tbd"; sourceTree = SDKROOT; };
 		A8D9F7A72B0235FF0047B84F /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		A8D9F7AD2B02388D0047B84F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
@@ -122,8 +122,8 @@
 				A8D9F7A62B0235D60047B84F /* Extension */,
 				A85346C92AFB2A9E00D41920 /* Log */,
 				A85346C42AFA289A00D41920 /* Models */,
-				A84398502AF4E9F9000FE04D /* KeyCenter.swift */,
 				A8C641C02B8EDE49007BD182 /* GenTools.swift */,
+				A8C641C42B8EED5A007BD182 /* KeyCenter.swift */,
 				A843984D2AF4E948000FE04D /* Tools */,
 				A84398392AF4E24F000FE04D /* AppDelegate.swift */,
 				A843983B2AF4E24F000FE04D /* SceneDelegate.swift */,
@@ -311,7 +311,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A84398512AF4E9F9000FE04D /* KeyCenter.swift in Sources */,
+				A8C641C52B8EED5B007BD182 /* KeyCenter.swift in Sources */,
 				A843983E2AF4E24F000FE04D /* CreateRoomViewController.swift in Sources */,
 				A85346CC2AFB2A9E00D41920 /* Log.swift in Sources */,
 				A843983A2AF4E24F000FE04D /* AppDelegate.swift in Sources */,
